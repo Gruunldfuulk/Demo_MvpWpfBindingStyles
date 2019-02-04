@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_MvpWpfBindingStyles", "Demo_MvpWpfBindingStyles\Demo_MvpWpfBindingStyles.csproj", "{AADA1106-B580-4934-8E35-E1E0FE00A81D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AADA1106-B580-4934-8E35-E1E0FE00A81D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AADA1106-B580-4934-8E35-E1E0FE00A81D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AADA1106-B580-4934-8E35-E1E0FE00A81D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AADA1106-B580-4934-8E35-E1E0FE00A81D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69474450-3F1E-455A-8890-EE0BCCDDB136}
+	EndGlobalSection
+EndGlobal
